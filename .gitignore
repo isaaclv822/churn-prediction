@@ -1,0 +1,17 @@
+# Environnement virtuel
+.venv/
+
+data/
+
+# Python et Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Secrets et fichiers du système / éditeur
+.env
+kaggle.json
+.DS_Store
+.vscode/
+
+JOURNAL.md
